@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Tutorial: https://dev.to/ksushiva/how-to-translate-your-react-js-app-with-i18next-12mn
 ## Available Scripts
 
 In the project directory, you can run:
